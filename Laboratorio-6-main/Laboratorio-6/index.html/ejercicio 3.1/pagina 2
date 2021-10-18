@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranma 1/2</title>
+</head>
+<body> 
+    <body background="Fondo-2.jpg"></body>
+    <center>
+<h1> Ranma 1/2 </h1>
+<p>
+    <h2>Sinopsis</h2>
+    <p>Ranma tiene 16 años y toda su vida se ha entrenado en las artes marciales para ser experto. Durante uno de sus entrenamientos, sufre un accidente que le lleva a caer en una fosa encantada en Jusenkyo y que cambiará su vida para siempre con una maldición.</p>
+</p></center>
+<h2> Personajes Principales </h2>
+<p> 
+    <img src="Ranma.jpg" align="right">
+<ol>
+    <li>Akane Tendo</li>
+    <li>Ryoga Hibiki</li>
+    <li>Shampoo</li>
+    <li>Ukyo Kuonji</li>
+    <li>Happosai</li>
+    <li>Ranma Saotome</li>
+</ol>
+</p>
+</body>
+</html>

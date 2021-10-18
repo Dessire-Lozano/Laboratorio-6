@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> SAILOR MOON</title>
+</head>
+<body> 
+    <body background="Fondo-1.jpg"></body>
+    <center>
+<h1> SAILOR MOON </h1>
+<p>
+    <h2>Sinopsis</h2> 
+   <p>"Sailor Moon es una serie japonesa protagonizada por un grupo de chicas que cursan secundaria. La historia comienza el día que Usagi Tsukino se cruza con una gata negra que tiene una mancha con forma de luna creciente. La felina, llamada Luna, le revela un secreto, Usagi es una Sailor Senshi y debe derrotar a los enemigos de la Tierra y salvar a la princesa de la Luna.Desde ese momento, Sailor se hace llamar Sailor Moon y lucha como justiciera para acabar con los planes del Reino Oscuro, los primeros de la larga lista de villanos con los que se tendrá que cruzar."</p> 
+</p></center>
+<h2> Personajes Principales </h2>
+<p> 
+    <img src="Sailor-Moon.jpg" align="right">
+<ol>
+    <li>Serena</li>
+    <li>Ami Mizuno</li>
+    <li>Rei Hino</li>
+    <li>Makoto Kino</li>
+    <li>Minako Aino</li>
+    <li>Darien</li>
+</ol>
+</p>
+</body>
+</html>

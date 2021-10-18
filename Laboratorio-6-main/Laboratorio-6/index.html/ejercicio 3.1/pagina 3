@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hunter X Hunter</title>
+</head>
+<body> 
+    <body background="Fondo-3.jpg"></body>
+    <center>
+<h1> Hunter X Hunter </h1>
+<p>
+    <h2>Sinopsis</h2>
+    <p> La historia se enfoca en los esfuerzos de Gon y sus amigos para recuperar los ojos escarlata de Kurapika, que fueron robados por Omokage, un miembro de Gen'ei Ryodan. ... La historia se centra en Netero, el presidente de la Asociación de Cazadores, y de como Gon y sus amigos descubren los oscuros secretos de su pasado.</p>
+</p></center>
+<h2> Personajes Principales </h2>
+<p> 
+    <img src="HunterXHunter.jpg" align="right">
+<ol>
+    <li>Gon Freecss</li>
+    <li>Kurapika</li>
+    <li>Killua Zoldyck</li>
+    <li>Hisoka Morow</li>
+    <li>Chrollo Lucilfer</li>
+</ol>
+</p>
+</body>
+</html>
